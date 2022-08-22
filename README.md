@@ -12,6 +12,7 @@ data=[
   ['2060', 16, 22],
   ['color','red','grey']
 ]
+
 config={
   fontSize:'smaller',
   textColor:'red',
